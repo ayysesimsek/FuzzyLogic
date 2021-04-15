@@ -1,0 +1,22 @@
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_bm\bin\Debug\163311055_bm.exe.config
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_bm\bin\Debug\163311055_bm.exe
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_bm\bin\Debug\163311055_bm.pdb
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_bm\obj\Debug\163311055_bm.csprojAssemblyReference.cache
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_bm\obj\Debug\_163311055_bm.RuleComponent.resources
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_bm\obj\Debug\_163311055_bm.Form1.resources
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_bm\obj\Debug\_163311055_bm.Properties.Resources.resources
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_bm\obj\Debug\163311055_bm.csproj.GenerateResource.cache
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_bm\obj\Debug\163311055_bm.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_bm\obj\Debug\163311055_bm.exe
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_bm\obj\Debug\163311055_bm.pdb
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_bm\bin\Debug\163311055_bm.exe.config
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_bm\bin\Debug\163311055_bm.exe
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_bm\bin\Debug\163311055_bm.pdb
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_bm\obj\Debug\163311055_bm.csprojAssemblyReference.cache
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_bm\obj\Debug\_163311055_bm.RuleComponent.resources
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_bm\obj\Debug\_163311055_bm.Form1.resources
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_bm\obj\Debug\_163311055_bm.Properties.Resources.resources
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_bm\obj\Debug\163311055_bm.csproj.GenerateResource.cache
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_bm\obj\Debug\163311055_bm.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_bm\obj\Debug\163311055_bm.exe
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_bm\obj\Debug\163311055_bm.pdb
